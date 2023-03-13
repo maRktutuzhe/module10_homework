@@ -1,0 +1,18 @@
+#btn{
+  cursor: pointer;
+  width: 150px;
+  display: flex;
+  padding: 2px 10px;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #FFC0CB;
+}
+
+#btn:hover{
+  background-color: #FFB6C1;
+
+}
+
+#txt{
+  margin: 0;
+}
